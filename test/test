@@ -1,0 +1,3 @@
+ding current dir to PYTHONPATH. PYTHONPATH is an environment variable which you can set to add additional directories where python will look for modules and packages. This helped for me.
+
+export PY
